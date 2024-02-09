@@ -65,7 +65,7 @@ variable "skip_final_snapshot" {
 
 variable "db_name" {
   description = "Name of the database"
-  default     = "test-database"
+  default     = "testdb"
 }
 
 variable "username" {
